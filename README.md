@@ -98,7 +98,7 @@ There are a lot of buzzwords in the above. However, think of it as a board in th
 |--------|---------|
 | To Do  | Work acknowledged, but not yet started |
 | In Progress | Work currently being completed |
-| Done | | Work that is... (you get the picture) |
+| Done | Work that is... (you get the picture) |
 
 In essence, it allows everyone _to see_ (visualize) the pipeline (flow) of work being done.
 
