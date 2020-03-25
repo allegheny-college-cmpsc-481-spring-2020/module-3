@@ -104,6 +104,8 @@ In essence, it allows everyone _to see_ (visualize) the pipeline (flow) of work 
 
 As we move through this module, I will require use of the `Basic` template. Attempting to do all the automation that GitHub offers would take too much time, and I want to make sure we're still doing the work we've signed up to do.
 
+Here's more specific information about [how GitHub implements the concept](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards).
+
 ## Turning in the assignment
 
 ### Writing
