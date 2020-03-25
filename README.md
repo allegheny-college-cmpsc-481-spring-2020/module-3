@@ -102,7 +102,9 @@ There are a lot of buzzwords in the above. However, think of it as a board in th
 
 In essence, it allows everyone _to see_ (visualize) the pipeline (flow) of work being done.
 
-As we move through this module, I will require use of the `Basic` template. Attempting to do all the automation that GitHub offers would take too much time, and I want to make sure we're still doing the work we've signed up to do.
+As we move through this module, I will require use of the `Basic` template. Attempting to do all the automation that GitHub offers would take too much time, and I want to make sure we're still doing the work we've signed up to do. Setting up and maintaining this board should be a group priority. 
+
+This means that someone(s) in the group should take on a new, unofficial dedicated role: **the Manager(s)**. These folks could be the same for the entire module or rotate week to week. I'll be peeking in and asking your group about progress each week during our conferences.
 
 Here's more specific information about [how GitHub implements the concept](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards).
 
